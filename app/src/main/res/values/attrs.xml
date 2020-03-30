@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingButtonView">
+        <attr name="buttonBg" format="reference" />
+        <attr name="buttonColor" format="color" />
+        <attr name="focusColor" format="color" />
+    </declare-styleable>
+</resources>
